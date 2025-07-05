@@ -1,2 +1,2 @@
-# testing-repo
-This is a test repo
+# gitClassRoom
+This is a test repo.
